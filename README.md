@@ -7,13 +7,15 @@ algorithm to solve electromagnetic differential equations and gather data of int
 attribute updates allowed the model to accurately resemble relativistic principles and effects. 
 ```
 
+
 ```
 A cyclotron, invented by Ernest O. Lawrence in 1934, is one of the earliest types of particle 
 accelerators that utilizes electromagnetic fields to accelerate charged particles to extreme 
 velocities [1]. A static magnetic field is applied inside two ”D-shaped” regions called dees,
 which serves to keep the particle in a semi-circular path due to Lorentz Force.
 ```
-![alt text](https://github.com/TonyAlarcon/Isochronous-Cyclotron/blob/master/images/ForceEq.gif "Force")
+<a href="https://www.codecogs.com/eqnedit.php?latex=\LARGE&space;F&space;=&space;qE&space;&plus;&space;qv&space;\times&space;B" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LARGE&space;F&space;=&space;qE&space;&plus;&space;qv&space;\times&space;B" title="\LARGE F = qE + qv \times B" /></a>
+
 ```
 As the particle reaches a gap between the dees, it is accelerated by a rapidly varying electric 
 field that increases both the particle’s velocity and radius. Each time the particle crosses a 
