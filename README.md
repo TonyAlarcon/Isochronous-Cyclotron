@@ -12,9 +12,9 @@ A cyclotron, invented by Ernest O. Lawrence in 1934, is one of the earliest type
 accelerators that utilizes electromagnetic fields to accelerate charged particles to extreme 
 velocities [1]. A static magnetic field is applied inside two ”D-shaped” regions called dees,
 which serves to keep the particle in a semi-circular path due to Lorentz Force.
-
-![alt text](https://github.com/TonyAlarcon/Isochronous-Cyclotron/blob/master/images/ForceEq.gif)
-
+```
+![alt text](https://github.com/TonyAlarcon/Isochronous-Cyclotron/blob/master/images/ForceEq.gif "Force")
+```
 As the particle reaches a gap between the dees, it is accelerated by a rapidly varying electric 
 field that increases both the particle’s velocity and radius. Each time the particle crosses a 
 gap, the polarity of the electric field reverses to accelerate the particle in the correct direction. 
