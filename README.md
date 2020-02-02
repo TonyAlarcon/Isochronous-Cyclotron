@@ -60,8 +60,9 @@ This allows a measurement of cyclotron frequency directly from real data. This p
 ![alt text](https://github.com/TonyAlarcon/Isochronous-Cyclotron/blob/master/veocity_vs_radius.png "Velocity vs. Rotation Radius")
 
 
+# The Runge-Kutta 4th Order Integration Method
 <details>
-  <summary># The Runge-Kutta 4th Order Integration Method</summary>
+  <summary>Expand</summary>
   
 ```python
 def rk4(particle, iterations, desired_value):
