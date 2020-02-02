@@ -14,7 +14,7 @@ accelerators that utilizes electromagnetic fields to accelerate charged particle
 velocities [1]. A static magnetic field is applied inside two ”D-shaped” regions called dees,
 which serves to keep the particle in a semi-circular path due to Lorentz Force.
 ```
-<a href="https://www.codecogs.com/eqnedit.php?latex=\LARGE&space;F&space;=&space;qE&space;&plus;&space;qv&space;\times&space;B" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LARGE&space;F&space;=&space;qE&space;&plus;&space;qv&space;\times&space;B" title="\LARGE F = qE + qv \times B" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codecogs.com/eqnedit.php?latex=\LARGE&space;F&space;=&space;qE&space;&plus;&space;qv&space;\times&space;B" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LARGE&space;F&space;=&space;qE&space;&plus;&space;qv&space;\times&space;B" title="\LARGE F = qE + qv \times B" /></a>
 
 ```
 As the particle reaches a gap between the dees, it is accelerated by a rapidly varying electric 
@@ -23,8 +23,10 @@ gap, the polarity of the electric field reverses to accelerate the particle in t
 In order to properly time the polarity reversal, it is necessary for the electric field to be tuned 
 to the cyclotron resonance. By equating the magnetic Lorentz force with the centripetal force and 
 making the proper substitutions, one obtains the gyrofrequency
+```
+<img src="https://latex.codecogs.com/gif.latex?\LARGE&space;f=\frac{qB}{2\pi&space;m}" title="\LARGE f=\frac{qB}{2\pi m}" />
 
-
+```
 where q, B and m is the particle-charge, magnetic-field strength, and particle-mass, respectively. 
 It is important to note that the gyrofrequency is independent of both the radius and velocity, 
 and is thus contant over a static magnetic field. The resulting particle trajectory is an outward
