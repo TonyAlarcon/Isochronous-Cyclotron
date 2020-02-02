@@ -50,8 +50,9 @@ The particle trajectory and velocity were computed using the Runge-Kutta 4th ord
 ```
 The gyrofrequency may also be obtained from experimental data from the particle, since velocity is 
 proportional to the gyrofrequency and radius in the following manner
-
-
+```
+<img src="https://latex.codecogs.com/gif.latex?\LARGE&space;v=(2\pi&space;f)r" title="\LARGE v=(2\pi f)r" />
+```
 Therefore, plotting a graph of velocity as a function of radius gives a straight line with slope of 2πf. 
 This allows a measurement of cyclotron frequency directly from real data. This plot is demonstrated in figure 3.
 ```
