@@ -13,7 +13,7 @@ accelerators that utilizes electromagnetic fields to accelerate charged particle
 velocities [1]. A static magnetic field is applied inside two ”D-shaped” regions called dees,
 which serves to keep the particle in a semi-circular path due to Lorentz Force.
 
-
+![alt text](https://github.com/TonyAlarcon/Isochronous-Cyclotron/blob/master/images/ForceEq.gif)
 
 As the particle reaches a gap between the dees, it is accelerated by a rapidly varying electric 
 field that increases both the particle’s velocity and radius. Each time the particle crosses a 
