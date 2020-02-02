@@ -61,7 +61,7 @@ This allows a measurement of cyclotron frequency directly from real data. This p
 
 
 <details>
-  <summary>#The Runge-Kutta 4th Order Integration Method</summary>
+  <summary># The Runge-Kutta 4th Order Integration Method</summary>
   
 ```python
 def rk4(particle, iterations, desired_value):
@@ -123,3 +123,7 @@ def rk4(particle, iterations, desired_value):
 	return value
   ```
 </details>
+
+## References
+
+* [1] U.S. Patent 1,948,384 Lawrence, Ernest O. Method and apparatus for the acceleration of ions, filed: January 26, 1932, granted: February 20, 1934
